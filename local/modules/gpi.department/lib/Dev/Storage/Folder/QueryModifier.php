@@ -1,5 +1,5 @@
 <?php
-
+//
 namespace Gpi\Department\Dev\Storage\Folder;
 
 class QueryModifier{
